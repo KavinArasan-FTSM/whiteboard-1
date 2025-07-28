@@ -23,3 +23,5 @@ if __name__ == "__main__":   # for desired input
     number = int(input("Enter a perfect square: "))
     result = square_root(number)
     print(f"Square root of {number} is {result}")
+    
+#Time Complexity: O(log x) , Space Complexity:   O(1)
